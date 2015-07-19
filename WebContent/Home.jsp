@@ -35,6 +35,7 @@ footer{
 }
 </style>
 </head>
+<!-- 아무이유없이 넣으거임 commit 되는지 확인용 -->
 <body>
 	<header><h1>숭실대 IT대학 커뮤니티</h1></header>
 	<nav class="navbar navbar-default">
